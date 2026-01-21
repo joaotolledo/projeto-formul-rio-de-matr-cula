@@ -6,7 +6,7 @@ Este é um projeto de formulário de matrícula desenvolvido como parte de um de
 
 Você pode visualizar o projeto online através do link:
 
-https://joaotolledo.github.io/projeto-formul-rio-de-matr-cula/
+https://joaotolledo.github.io/projeto-formulario-de-matricula/
 📋 Descrição do Projeto
 
 O projeto consiste em um formulário estruturado para captar dados de matrícula de alunos. Ele foca na experiência do usuário (UX), utilizando uma hierarquia visual clara, separação de seções (Dados do aluno, Informações dos pais, Endereço e Opções de turma) e feedback visual em campos de entrada.
